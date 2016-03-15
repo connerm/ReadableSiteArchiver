@@ -1,3 +1,7 @@
+#Readable Site Archiver - a small python web scraper to scarp an article webpage 
+#and produce a 'readable' html file of the article.
+#The script will crawl links found from the root of the site.
+
 #currently setup for BBC news, change article div and contense, more support for this soon
 
 #modules
